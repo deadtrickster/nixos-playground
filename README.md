@@ -1,4 +1,4 @@
-# My NixOS Expirement
+# My NixOS Experiment
 
 ## Stage 1
 

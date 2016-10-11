@@ -31,13 +31,13 @@ I want to integrate it with my Prometheus stuff in a separate branch of my fork.
 What's interesting there is that nixops can generate proper configuration even though instances will have "random" addresses (assigned by AWS when AMI starts).
 
 Prometheus, grafana, nginx, exporters are known nixos packages already. Hex_web might be tricky:
- - hex_packages.nix is extremely outdated, looks like I have to try to regenerate it or even write definigtions manually;
+ - hex_packages.nix is extremely outdated, looks like I have to try to regenerate it or even write definitions manually;
  - Erlang release generation using nix tools;
  - Importing seed data.
  
 #### Other resources:
  
- - I want to explores Route 53 integration
+ - I want to explore Route 53 integration
  
 ## Ideas for the next stages
 
